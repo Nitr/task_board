@@ -1,0 +1,14 @@
+{
+  "name": "jquery.role",
+  "homepage": "https://github.com/kossnocorp/role",
+  "version": "1.3.1",
+  "_release": "1.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.3.1",
+    "commit": "8ffbbc19eda4547b6af90364a774b9e70467ea56"
+  },
+  "_source": "git://github.com/kossnocorp/role.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/kossnocorp/role"
+}

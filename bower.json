@@ -1,0 +1,15 @@
+{
+  "name": "task-board",
+  "version": "0.1",
+  "dependencies": {
+    "jquery.role": "git://github.com/kossnocorp/role",
+    "spin.js" : "latest",
+    "backbone.marionette": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
+
